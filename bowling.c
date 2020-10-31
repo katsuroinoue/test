@@ -1,3 +1,8 @@
+% this is a commented bowling.c program
+%
+%
+%
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
